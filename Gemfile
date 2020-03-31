@@ -20,7 +20,7 @@ gem 'acts_as_follower', github: 'tcocca/acts_as_follower', branch: 'master'
 gem 'devise'
 gem 'jwt', '~> 1.5.4'
 gem 'puma'
-gem 'rack-cors', '~> 0.4.0'
+gem 'rack-cors', '~> 1.1.1'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
